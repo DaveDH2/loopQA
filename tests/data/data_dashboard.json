@@ -1,0 +1,56 @@
+[
+  {
+    "scenario": "Verify 'Implement user authentication' in To Do column",
+    "navigateTo": "Web Application",
+    "itemToVerify": {
+      "name": "Implement user authentication",
+      "column": "To Do",
+      "tags": ["Feature", "High Priority"]
+    }
+  },
+  {
+    "scenario": "Verify 'Fix navigation bug' in To Do column",
+    "navigateTo": "Web Application",
+    "itemToVerify": {
+      "name": "Fix navigation bug",
+      "column": "To Do",
+      "tags": ["Bug"]
+    }
+  },
+  {
+    "scenario": "Verify 'Design system updates' in In Progress column",
+    "navigateTo": "Web Application",
+    "itemToVerify": {
+      "name": "Design system updates",
+      "column": "In Progress",
+      "tags": ["Design"]
+    }
+  },
+  {
+    "scenario": "Verify 'Push notification system' in To Do column",
+    "navigateTo": "Mobile Application",
+    "itemToVerify": {
+      "name": "Push notification system",
+      "column": "To Do",
+      "tags": ["Feature"]
+    }
+  },
+  {
+    "scenario": "Verify 'Offline mode' in In Progress column",
+    "navigateTo": "Mobile Application",
+    "itemToVerify": {
+      "name": "Offline mode",
+      "column": "In Progress",
+      "tags": ["Feature", "High Priority"]
+    }
+  },
+  {
+    "scenario": "Verify 'App icon design' in Done column",
+    "navigateTo": "Mobile Application",
+    "itemToVerify": {
+      "name": "App icon design",
+      "column": "Done",
+      "tags": ["Design"]
+    }
+  }
+]
